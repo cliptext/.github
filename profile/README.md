@@ -2,7 +2,7 @@
 
 **Status: WIP (Work in Progress)**
 
-Welcome to the **Cliptext** organization! Our mission is to provide innovative solutions for managing and sharing clips seamlessly across various platforms. Our architecture is designed with microservices in mind, allowing for scalability, maintainability, and high performance.
+Welcome to the **Cliptext** organization! Our mission is to provide innovative solutions for managing and sharing text clips, notes, and other forms of textual content seamlessly across various platforms. Our architecture is designed with microservices in mind, allowing for scalability, maintainability, and high performance.
 
 ## Table of Contents
 
